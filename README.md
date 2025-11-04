@@ -1,6 +1,8 @@
 # Filtros_TIP8544
 trabalho 2 disciplina Técnicas de controle digital
 # Análise Comparativa de Filtros Analógicos Ativos e Passivos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rnunesufc/Filtros_TIP8544/blob/main/Trabalho2.ipynb)
+
 
 ## 🎯 Objetivo do Projeto
 
